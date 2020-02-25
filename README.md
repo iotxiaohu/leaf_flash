@@ -58,7 +58,7 @@
 修改`leaf_flash.h`要用到的芯片的页大小, 和要用到的页的首地址
 
 <div align=center>
-<img width="500" src="https://github.com/leafguo/Leaf_Driver/blob/master/Leaf_Flash/image/1.png?raw=true"/>
+<img width="500" src="https://github.com/leafguo/leaf_flash/blob/master/image/1.png?raw=true"/>
 </div>
 
 ### 第2步
@@ -66,7 +66,7 @@
 如果要用测试例程, 取消这个注释
 
 <div align=center>
-<img width="500" src="https://github.com/leafguo/Leaf_Driver/blob/master/Leaf_Flash/image/2.png?raw=true"/>
+<img width="500" src="https://github.com/leafguo/leaf_flash/blob/master/image/2.png?raw=true"/>
 </div>
 
 ### 第3步
@@ -78,7 +78,7 @@
 * 详情请参考`leaf_flash.c`的参考例程
 
 <div align=center>
-<img width="700" src="https://github.com/leafguo/Leaf_Driver/blob/master/Leaf_Flash/image/3.png?raw=true"/>
+<img width="700" src="https://github.com/leafguo/leaf_flash/blob/master/image/3.png?raw=true"/>
 </div>
 
 ---
